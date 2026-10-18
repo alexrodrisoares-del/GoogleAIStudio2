@@ -1,0 +1,6 @@
+{
+  "name": "CyberQuest: Life Tasks RPG",
+  "description": "Android-style cyberpunk productivity RPG where completing daily life chores earns XP, levels up tech ranks, damages boss monsters, and unlocks cyber gear.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
